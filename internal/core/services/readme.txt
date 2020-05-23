@@ -1,0 +1,1 @@
+here put the interface for access to the domains
